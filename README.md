@@ -1,3 +1,6 @@
+![Hansana's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevHanza\&hide=issues\&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevHanza\&layout=compact&theme=dark)
+
 ## Hi there 👋
 I’m a passionate Full Stack Developer with a solid foundation in Website Development and Expertise in creating Professional Websites to grow your online presence.
 
