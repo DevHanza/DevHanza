@@ -10,6 +10,6 @@ I’m a passionate Full Stack Developer with a solid foundation in Website Devel
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevHanza\&layout=compact&theme=dark)
 
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,sass,bootstrap,tailwind,angular,express,py,wordpress,figma,ps)](https://hansana.is-a.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,sass,bootstrap,ts,angular,express,py,wordpress,figma,ps)](https://hansana.is-a.dev)
 
 
