@@ -1,5 +1,5 @@
 # Hi there, I’m a<br>Front End Developer! 👋
-### Visit [https://devhanza.is-a.dev](https://devhanza.is-a.dev/) for more.
+> Visit [https://devhanza.is-a.dev](https://devhanza.is-a.dev/) for more.
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 ##
