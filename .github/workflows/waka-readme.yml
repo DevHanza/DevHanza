@@ -24,7 +24,7 @@ jobs:
           SHOW_TITLE: true # optional
           SECTION_NAME: Weekly Development Breakdown # optional
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          BLOCKS: ○● # optional 
+          BLOCKS: █ # optional 
           # LANG_COUNT: 10 # optional
           SHOW_TIME: true # optional
           IGNORED_LANGUAGES: YAML JSON TOML # optional
