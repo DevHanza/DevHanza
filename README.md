@@ -6,10 +6,10 @@
 ```txt
 From: 16 November 2024 - To: 23 November 2024
 
-TypeScript   15 hrs 37 mins  ○○○○○○○○○○○●●●●●●●●●●●●●●   42.08 %
-JavaScript   15 hrs 2 mins   ○○○○○○○○○○●●●●●●●●●●●●●●●   40.50 %
-HTML         3 hrs 43 mins   ○○○●●●●●●●●●●●●●●●●●●●●●●   10.04 %
-CSS          51 mins         ○●●●●●●●●●●●●●●●●●●●●●●●●   02.29 %
+TypeScript   15 hrs 37 mins  ●●●●●●●●●●●○○○○○○○○○○○○○○   42.08 %
+JavaScript   15 hrs 2 mins   ●●●●●●●●●●○○○○○○○○○○○○○○○   40.50 %
+HTML         3 hrs 43 mins   ●●●○○○○○○○○○○○○○○○○○○○○○○   10.04 %
+CSS          51 mins         ●○○○○○○○○○○○○○○○○○○○○○○○○   02.29 %
 ```
 
 <!--END_SECTION:waka-->
