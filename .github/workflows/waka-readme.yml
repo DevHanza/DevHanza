@@ -14,5 +14,9 @@ jobs:
     steps:
       - uses: athul/waka-readme@master
         with:
+          SHOW_TITLE: true # optional
+          SECTION_NAME: waka # optional
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          BLOCKS: ⬜⬛
+          BLOCKS: ⬜⬛ # optional
+          LANG_COUNT: 10 # optional
+          SHOW_TIME: true # optional
