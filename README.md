@@ -2,6 +2,15 @@
 > Visit [https://devhanza.is-a.dev](https://devhanza.is-a.dev/) for more.
 
 <!--START_SECTION:waka-->
+
+```txt
+TypeScript   15 hrs 37 mins  ██████████▓░░░░░░░░░░░░░░   42.08 %
+JavaScript   15 hrs 2 mins   ██████████░░░░░░░░░░░░░░░   40.50 %
+HTML         3 hrs 43 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.04 %
+JSON         1 hr 1 min      ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.77 %
+CSS          51 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.29 %
+```
+
 <!--END_SECTION:waka-->
 
 ##
