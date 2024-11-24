@@ -2,12 +2,17 @@
 name: Work Stats Readme
 
 on:
-  workflow_dispatch:
+  workflow_dispatch:  # Allows manual triggering of the workflow
   schedule:
     # Runs every 2 hours
     # - cron: "0 */2 * * *"
-    # runs at 12 AM UTC (5:30 AM IST)
+    # Runs at 12 AM UTC (5:30 AM IST)
     - cron: "0 0 * * *"
+  
+  push:
+    branches:
+      - main  # Change this to your target branch
+      - 'releases/**'  # Optional: include all release branches
 
 jobs:
   update-readme:
