@@ -4,13 +4,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 October 2024 - To: 23 November 2024
+From: 14 October 2024 - To: 24 November 2024
 
-CSS           74 hrs 45 mins  █████████▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯   37.09 %
-HTML          53 hrs 19 mins  ███████▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯   26.45 %
-TypeScript    43 hrs 54 mins  █████▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯   21.78 %
-JavaScript    24 hrs 37 mins  ███▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯   12.21 %
-Bash          59 mins         ▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯   00.50 %
+CSS           74 hrs 53 mins  █████████▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯   36.24 %
+HTML          54 hrs 1 min    ███████▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯   26.14 %
+TypeScript    46 hrs 45 mins  ██████▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯   22.62 %
+JavaScript    25 hrs 38 mins  ███▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯   12.41 %
+Bash          1 hr 2 mins     ▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯   00.50 %
 ```
 
 <!--END_SECTION:waka-->
