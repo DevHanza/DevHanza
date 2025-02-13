@@ -10,12 +10,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 October 2024 - To: 11 February 2025
+From: 14 October 2024 - To: 12 February 2025
 
-CSS           75 hrs 31 mins  #######------------------   29.84 %
-HTML          69 hrs 31 mins  #######------------------   27.47 %
-TypeScript    59 hrs 4 mins   ######-------------------   23.34 %
-JavaScript    37 hrs 19 mins  ####---------------------   14.75 %
+CSS           75 hrs 31 mins  #######------------------   29.79 %
+HTML          69 hrs 42 mins  #######------------------   27.49 %
+TypeScript    59 hrs 19 mins  ######-------------------   23.40 %
+JavaScript    37 hrs 19 mins  ####---------------------   14.73 %
 Astro         1 hr 49 mins    -------------------------   00.72 %
 ```
 
