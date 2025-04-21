@@ -23,35 +23,4 @@ Python        4 hrs 38 mins   -------------------------   01.55 %
 
 > Visit [https://devhanza.is-a.dev](https://devhanza.is-a.dev/) for more.
 
-<br>
 
-# My Learning Experience
-
-<table>
-  <tr>
-  <td>
-
-| Year | Skills |
-|------|--------|
-| 2025 | ![2025](https://go-skill-icons.vercel.app/api/icons?i=react,jest) |
-| 2024 | ![2024](https://go-skill-icons.vercel.app/api/icons?i=angular) |
-| 2023 | ![2023](https://go-skill-icons.vercel.app/api/icons?i=mongodb) |
-| 2022 | ![2022](https://go-skill-icons.vercel.app/api/icons?i=pr,mysql,nodejs,expressjs,figma) |
-| 2021 | ![2021](https://go-skill-icons.vercel.app/api/icons?i=git,github,bootstrap) |
-| 2020 | ![2020](https://go-skill-icons.vercel.app/api/icons?i=python,sass,vscode) |
-
-  </td>
-    
-  <td>
-
-| Year | Skills |
-|------|--------|
-| 2019 | ![2019](https://go-skill-icons.vercel.app/api/icons?i=wordpress,filmora,sublime) |
-| 2018 | ![2018](https://go-skill-icons.vercel.app/api/icons?i=html,css) |
-| 2017 | ![2017](https://go-skill-icons.vercel.app/api/icons?i=html) |
-| 2016 | ![2016](https://go-skill-icons.vercel.app/api/icons?i=ai,lr) |
-| 2015 | ![2015](https://go-skill-icons.vercel.app/api/icons?i=ps) |
-
-  </td>
-  </tr>
-</table>
