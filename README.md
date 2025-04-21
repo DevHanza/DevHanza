@@ -35,8 +35,8 @@ Python        4 hrs 38 mins   -------------------------   01.55 %
 |------|--------|
 | 2025 | ![2025](https://go-skill-icons.vercel.app/api/icons?i=react) |
 | 2024 | ![2024](https://go-skill-icons.vercel.app/api/icons?i=angular) |
-| 2023 | ![2023](https://go-skill-icons.vercel.app/api/icons?i=javascript) |
-| 2022 | ![2022](https://go-skill-icons.vercel.app/api/icons?i=pr) |
+| 2023 | ![2023](https://go-skill-icons.vercel.app/api/icons?i=) |
+| 2022 | ![2022](https://go-skill-icons.vercel.app/api/icons?i=pr,MySQL,nodejs) |
 | 2021 | ![2021](https://go-skill-icons.vercel.app/api/icons?i=github,bootstrap) |
 | 2020 | ![2020](https://go-skill-icons.vercel.app/api/icons?i=python,sass) |
 
