@@ -8,16 +8,16 @@
 ## My Skills
 
 ### Languages
-![Languages](https://go-skill-icons.vercel.app/api/icons?i=js,ts,html,css,scss,mysql,py,php,c&perline=6)
+![Languages](https://go-skill-icons.vercel.app/api/icons?i=js,ts,html,css,mysql,py,php,c&perline=6)
 
 ### Technologies
-![Technologies](https://go-skill-icons.vercel.app/api/icons?i=react,angular,nodejs,wordpress)
+![Technologies](https://go-skill-icons.vercel.app/api/icons?i=react,angular,nodejs,expressjs,mongodb,wordpress,scss,bootstrap,tailwindcss,gsap,materialui,shadcn&perline=6)
 
 ### Tools
-![Tools](https://go-skill-icons.vercel.app/api/icons?i=ps,ai,figma,git,github,vite,npm,chatgpt,prettier&perline=6)
+![Tools](https://go-skill-icons.vercel.app/api/icons?i=figma,framer,webflow,webstudio,git,github,vite,npm,yarn,chatgpt,prettier,ps,ai,lightroom&perline=6)
 
 ### Environment
-![Operating Systems](https://go-skill-icons.vercel.app/api/icons?i=chrome,vscode)
+![Operating Systems](https://go-skill-icons.vercel.app/api/icons?i=chrome,vscode,terminal)
 
 
 <details>
