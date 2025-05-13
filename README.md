@@ -8,10 +8,10 @@
 ## My Skills
 
 ### Languages
-![Languages](https://go-skill-icons.vercel.app/api/icons?i=js,ts,html,css,py,php,c&perline=6)
+![Languages](https://go-skill-icons.vercel.app/api/icons?i=js,ts,py,php,mysql,c,html,css&perline=6)
 
 ### Technologies
-![Technologies](https://go-skill-icons.vercel.app/api/icons?i=react,angular,nodejs,expressjs,mongodb,sqlite,mysql,scss,bootstrap,tailwindcss,gsap,materialui,shadcn&perline=6)
+![Technologies](https://go-skill-icons.vercel.app/api/icons?i=react,angular,nodejs,expressjs,mongodb,scss,bootstrap,tailwindcss,gsap,materialui,shadcn&perline=6)
 
 ### Tools
 ![Tools](https://go-skill-icons.vercel.app/api/icons?i=git,figma,ps,ai,lightroom,wordpress,webstudio,framer,webflow&perline=6)
