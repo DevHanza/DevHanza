@@ -14,11 +14,7 @@
 ![Technologies](https://go-skill-icons.vercel.app/api/icons?i=react,angular,nodejs,expressjs,mongodb,scss,bootstrap,tailwindcss,gsap,materialui,shadcn&perline=6)
 
 ### Tools
-![Tools](https://go-skill-icons.vercel.app/api/icons?i=git,figma,wordpress,webstudio,framer,webflow&perline=6)
-
-### Environment
-![Operating Systems](https://go-skill-icons.vercel.app/api/icons?i=chrome,vscode,terminal)
-
+![Tools](https://go-skill-icons.vercel.app/api/icons?i=vscode,terminal,git,figma,wordpress,webstudio,framer,webflow&perline=6)
 
 <details>
     <summary><h2>My Github Stats</h2></summary>
