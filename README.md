@@ -30,7 +30,7 @@
         <!--START_SECTION:waka-->
 
 ```txt
-From: 14 October 2024 - To: 01 June 2025
+From: 14 October 2024 - To: 02 June 2025
 
 JavaScript    86 hrs 19 mins  ######-------------------   25.32 %
 CSS           81 hrs 30 mins  ######-------------------   23.90 %
