@@ -30,13 +30,13 @@
         <!--START_SECTION:waka-->
 
 ```txt
-From: 14 October 2024 - To: 16 August 2025
+From: 14 October 2024 - To: 17 August 2025
 
-JavaScript    155 hrs 55 mins #########----------------   35.55 %
-CSS           90 hrs 14 mins  #####--------------------   20.57 %
-HTML          89 hrs 17 mins  #####--------------------   20.35 %
-TypeScript    77 hrs 21 mins  ####---------------------   17.63 %
-Python        4 hrs 38 mins   -------------------------   01.06 %
+JavaScript    157 hrs         #########----------------   35.48 %
+CSS           90 hrs 44 mins  #####--------------------   20.50 %
+HTML          89 hrs 17 mins  #####--------------------   20.18 %
+TypeScript    77 hrs 21 mins  ####---------------------   17.48 %
+PHP           6 hrs 46 mins   -------------------------   01.53 %
 ```
 
 <!--END_SECTION:waka-->
