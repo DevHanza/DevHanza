@@ -1,6 +1,6 @@
 
 <h1>👋 Hi, I’m Hansana</h1>
-<p>I'm a Front-end dev from Sri Lanka 🇱🇰</p>
+<p>I'm a Frontend Software Engineer from Sri Lanka 🇱🇰</p>
 
 [![wakatime](https://wakatime.com/badge/user/cf3817f9-1dca-4dc8-876a-c4ae6f6942cc.svg)](https://wakatime.com/@cf3817f9-1dca-4dc8-876a-c4ae6f6942cc)
 [![github](https://img.shields.io/github/followers/DevHanza?logo=github&style=plastic)](https://github.com/DevHanza?tab=followers)
