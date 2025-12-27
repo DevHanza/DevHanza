@@ -1,18 +1,15 @@
-
 name: Work Stats Readme
 
 on:
-  workflow_dispatch:  # Allows manual triggering of the workflow
+  workflow_dispatch: # Allows manual triggering of the workflow
   schedule:
-    # Runs every 2 hours
-    # - cron: "0 */2 * * *"
     # Runs at 12 AM UTC (5:30 AM IST)
     - cron: "0 0 * * *"
-  
-  push:
-    branches:
-      - main  # Change this to your target branch
-      - 'releases/**'  # Optional: include all release branches
+
+  # push:
+  #   branches:
+  #     - main  # Change this to your target branch
+  #     - 'releases/**'  # Optional: include all release branches
 
 jobs:
   update-readme:
@@ -24,7 +21,7 @@ jobs:
           SHOW_TITLE: true # optional
           SECTION_NAME: Weekly Development Breakdown # optional
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          BLOCKS: -# #optional 
+          BLOCKS: -# #optional
           # LANG_COUNT: 10 # optional
           TIME_RANGE: all_time
           SHOW_TIME: true # optional
