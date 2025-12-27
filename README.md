@@ -2,7 +2,7 @@
 <p>I'm a Frontend Software Engineer from Sri Lanka 🇱🇰</p>
 
 [![wakatime](https://wakatime.com/badge/user/cf3817f9-1dca-4dc8-876a-c4ae6f6942cc.svg)](https://wakatime.com/@cf3817f9-1dca-4dc8-876a-c4ae6f6942cc)
-[![monkeytype](https://img.shields.io/badge/Monkeytype-116.8_WPM-gold?logo=monkeytype)](https://monkeytype.com/profile/Hansana1)
+[![monkeytype](https://img.shields.io/badge/Monkeytype-80_WPM-gold?logo=monkeytype)](https://monkeytype.com/profile/Hansana1)
 [![github](https://img.shields.io/github/followers/DevHanza?logo=github&style=flat)](https://github.com/DevHanza?tab=followers)
 
 ## My Skills
