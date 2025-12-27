@@ -45,6 +45,6 @@ PHP                10 hrs 47 mins  -------------------------   01.62 %
 
 <!--END_SECTION:waka-->
 
-    </figure>
+</figure>
 
 </details>
