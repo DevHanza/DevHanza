@@ -27,15 +27,11 @@ jobs:
           WPM=$(echo "$RESPONSE" | jq -r '.data["15"] | map(.wpm) | max')
           echo "Latest 15s WPM: $WPM"
 
-          # Construct badge markdown
-          BADGE="[![Monkeytype](https://img.shields.io/badge/Monkeytype-${WPM}_WPM-gold?logo=monkeytype)](https://monkeytype.com/profile/Hansana1)"
+          # Construct new badge URL
+          NEW_URL="https://img.shields.io/badge/Monkeytype-${WPM}_WPM-gold?logo=monkeytype"
 
-          # Replace the content between START_SECTION and END_SECTION
-          # Keep surrounding README content safe
-          sed -i -E "/<!--START_SECTION:monkeytype-->/, /<!--END_SECTION:monkeytype-->/c\\
-          <!--START_SECTION:monkeytype-->\\
-          $BADGE\\
-          <!--END_SECTION:monkeytype-->" README.md
+          # Replace the URL in existing ![Monkeytype](...) markdown
+          sed -i -E "s|\!\[Monkeytype\]\([^)]+\)|![Monkeytype]($NEW_URL)|" README.md
 
       # 3️⃣ Commit changes
       - name: Commit README update
