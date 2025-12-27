@@ -25,7 +25,7 @@ jobs:
           WPM=$(echo "$RESPONSE" | jq -r '.data["15"] | map(.wpm) | max')
           echo "Latest 15s WPM: $WPM"
 
-          BADGE="![Monkeytype](https://img.shields.io/badge/Monkeytype-${WPM}_WPM-gold?logo=monkeytype)"
+          BADGE="[![Monkeytype](https://img.shields.io/badge/Monkeytype-${WPM}_WPM-gold?logo=monkeytype)](https://monkeytype.com/profile/Hansana1)"
 
           # Replace content between START_SECTION and END_SECTION
           sed -i -E "/<!--START_SECTION:monkeytype-->/, /<!--END_SECTION:monkeytype-->/c\\<!--START_SECTION:monkeytype-->\\$BADGE\\<!--END_SECTION:monkeytype-->" README.md
