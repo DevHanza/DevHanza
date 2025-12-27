@@ -22,12 +22,13 @@ jobs:
 
           WPM=$(echo "$RESPONSE" | jq -r '.data["15"] | map(.wpm) | max')
 
-          sed -i "s/{{WPM}}/${WPM}/g" monkeytype.svg
+          # Update the local SVG
+          sed -i "s/{{WPM}}/${WPM}/g" svg/monkeytype.svg
 
       - name: Commit updated image
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
-          git add monkeytype.svg
-          git commit -m "Update Monkeytype Badge" || exit 0
+          git add svg/monkeytype.svg
+          git commit -m "Update Monkeytype SVG" || exit 0
           git push
