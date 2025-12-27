@@ -1,9 +1,9 @@
 name: Update Monkeytype Badge
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: "0 0 * * *" # daily
-  workflow_dispatch:
 
 jobs:
   update-readme:
@@ -28,10 +28,10 @@ jobs:
           echo "Latest 15s WPM: $WPM"
 
           # Construct new badge URL
-          NEW_URL="https://img.shields.io/badge/Monkeytype-${WPM}_WPM-gold?logo=monkeytype"
+          NEW_BADGE_URL="https://img.shields.io/badge/Monkeytype-${WPM}_WPM-gold?logo=monkeytype"
 
-          # Replace the URL in existing ![Monkeytype](...) markdown
-          sed -i -E "s|\!\[Monkeytype\]\([^)]+\)|![Monkeytype]($NEW_URL)|" README.md
+          # Replace only the URL inside the monkeytype badge
+          sed -i -E "s|(\\[!\\[monkeytype\\]\\()[^)]+|\\1$NEW_BADGE_URL|" README.md
 
       # 3️⃣ Commit changes
       - name: Commit README update
