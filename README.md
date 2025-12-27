@@ -1,7 +1,7 @@
 <h1>👋 Hi, I’m Hansana</h1>
 <p>I'm a Frontend Software Engineer from Sri Lanka 🇱🇰</p>
 
-<!--START_SECTION:monkeytype-->
+[![wakatime](https://wakatime.com/badge/user/cf3817f9-1dca-4dc8-876a-c4ae6f6942cc.svg)](https://wakatime.com/@cf3817f9-1dca-4dc8-876a-c4ae6f6942cc)<!--START_SECTION:monkeytype-->
 [![Monkeytype](https://img.shields.io/badge/Monkeytype-116.8_WPM-gold?logo=monkeytype)](https://monkeytype.com/profile/Hansana1)
 <!--END_SECTION:monkeytype-->
 <!-- [![github](https://img.shields.io/github/followers/DevHanza?logo=github&style=plastic)](https://github.com/DevHanza?tab=followers) -->

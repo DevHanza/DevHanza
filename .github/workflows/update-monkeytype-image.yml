@@ -1,9 +1,9 @@
 name: Update Monkeytype Badge
 
 on:
-  workflow_dispatch:
   schedule:
     - cron: "0 0 * * *" # daily
+  workflow_dispatch:
 
 jobs:
   update-readme:
@@ -18,20 +18,24 @@ jobs:
         env:
           APE_KEY: ${{ secrets.MONKEYTYPE_APE_KEY }}
         run: |
+          # Fetch personal bests
           RESPONSE=$(curl -s \
             -H "Authorization: ApeKey $APE_KEY" \
             "https://api.monkeytype.com/users/personalBests?mode=time")
 
+          # Extract highest 15s WPM
           WPM=$(echo "$RESPONSE" | jq -r '.data["15"] | map(.wpm) | max')
           echo "Latest 15s WPM: $WPM"
 
+          # Construct badge markdown
           BADGE="[![Monkeytype](https://img.shields.io/badge/Monkeytype-${WPM}_WPM-gold?logo=monkeytype)](https://monkeytype.com/profile/Hansana1)"
 
-          # Replace content between START_SECTION and END_SECTION with proper line breaks
+          # Replace the content between START_SECTION and END_SECTION
+          # Keep surrounding README content safe
           sed -i -E "/<!--START_SECTION:monkeytype-->/, /<!--END_SECTION:monkeytype-->/c\\
-          <!--START_SECTION:monkeytype-->\\
-          $BADGE\\
-          <!--END_SECTION:monkeytype-->" README.md
+<!--START_SECTION:monkeytype-->\\
+$BADGE\\
+<!--END_SECTION:monkeytype-->" README.md
 
       # 3️⃣ Commit changes
       - name: Commit README update
