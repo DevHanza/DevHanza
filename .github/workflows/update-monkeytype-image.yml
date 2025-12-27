@@ -1,18 +1,20 @@
-name: Update Monkeytype Image
+name: Update Monkeytype Badge
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *" # daily
   workflow_dispatch:
 
 jobs:
-  update:
+  update-readme:
     runs-on: ubuntu-latest
 
     steps:
+      # 1️⃣ Checkout repo
       - uses: actions/checkout@v4
 
-      - name: Fetch Monkeytype PB
+      # 2️⃣ Fetch Monkeytype PB
+      - name: Fetch Monkeytype 15s WPM
         env:
           APE_KEY: ${{ secrets.MONKEYTYPE_APE_KEY }}
         run: |
@@ -21,14 +23,18 @@ jobs:
             "https://api.monkeytype.com/users/personalBests?mode=time")
 
           WPM=$(echo "$RESPONSE" | jq -r '.data["15"] | map(.wpm) | max')
+          echo "Latest 15s WPM: $WPM"
 
-          # Update the local SVG
-          sed -i "s/{{WPM}}/${WPM}/g" svg/monkeytype.svg
+          BADGE="![Monkeytype](https://img.shields.io/badge/Monkeytype-${WPM}_WPM-gold?logo=monkeytype)"
 
-      - name: Commit updated image
+          # Replace content between START_SECTION and END_SECTION
+          sed -i -E "/<!--START_SECTION:monkeytype-->/, /<!--END_SECTION:monkeytype-->/c\\<!--START_SECTION:monkeytype-->\\$BADGE\\<!--END_SECTION:monkeytype-->" README.md
+
+      # 3️⃣ Commit changes
+      - name: Commit README update
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
-          git add svg/monkeytype.svg
-          git commit -m "Update Monkeytype SVG" || exit 0
+          git add README.md
+          git commit -m "Update Monkeytype badge WPM" || exit 0
           git push
