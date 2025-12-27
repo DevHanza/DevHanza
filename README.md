@@ -4,11 +4,7 @@
 [![wakatime](https://wakatime.com/badge/user/cf3817f9-1dca-4dc8-876a-c4ae6f6942cc.svg)](https://wakatime.com/@cf3817f9-1dca-4dc8-876a-c4ae6f6942cc)
 [![github](https://img.shields.io/github/followers/DevHanza?logo=github&style=plastic)](https://github.com/DevHanza?tab=followers)
 
-<!--START_SECTION:monkeytype-->
-
-![Monkeytype](https://img.shields.io/badge/Monkeytype-116.8_WPM-gold?logo=monkeytype)
-
-<!--END_SECTION:monkeytype-->
+<!--START_SECTION:monkeytype-->![Monkeytype](https://img.shields.io/badge/Monkeytype-116.8_WPM-gold?logo=monkeytype)<!--END_SECTION:monkeytype-->
 
 ## My Skills
 
