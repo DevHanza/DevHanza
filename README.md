@@ -22,9 +22,14 @@
 <details>
     <summary><h2>My Github Stats</h2></summary>
     <figure>
-        <img src="https://github-readme-stats.vercel.app/api?username=DevHanza&hide_border=true&theme=transparent" />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevHanza&langs_count=8&layout=compact&hide_border=true&theme=transparent" />
-    </figure> -->
+        <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=devhanza&theme=transparent&hide_border=true" alt="GitHub Streak" /></a>
+        <!--  -->
+        <a href="https://github-readme-stats.vercel.app">
+            <img src="https://github-readme-stats.vercel.app/api?username=DevHanza&hide_border=true&theme=transparent" />
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevHanza&langs_count=8&layout=compact&hide_border=true&theme=transparent" />
+        </a>
+    </figure>
+
 </details>
 
 <details>
