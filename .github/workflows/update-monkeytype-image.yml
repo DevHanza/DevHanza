@@ -33,9 +33,9 @@ jobs:
           # Replace the content between START_SECTION and END_SECTION
           # Keep surrounding README content safe
           sed -i -E "/<!--START_SECTION:monkeytype-->/, /<!--END_SECTION:monkeytype-->/c\\
-<!--START_SECTION:monkeytype-->\\
-$BADGE\\
-<!--END_SECTION:monkeytype-->" README.md
+          <!--START_SECTION:monkeytype-->\\
+          $BADGE\\
+          <!--END_SECTION:monkeytype-->" README.md
 
       # 3️⃣ Commit changes
       - name: Commit README update
