@@ -53,3 +53,12 @@ Bash               11 hrs 12 mins  -------------------------   01.49 %
 </figure>
 
 </details>
+
+## Connect
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&style=flat-square&logoColor=fff)](https://www.linkedin.com/in/devhanza)
+<!-- 
+[![Medium](https://img.shields.io/badge/Medium-%23000000.svg?logo=medium&style=flat-square&logoColor=white)](https://medium.com/@devhanza)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-white?style=flat-square&logoColor=white)](https://hansana.is-a.dev/)
+[![Contra](https://img.shields.io/badge/-Contra-black?style=flat-square&logo=contra&logoColor=white)](https://contra.com/devhanza)
+[![GitHub](https://img.shields.io/badge/-Github-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/devhanza)
+-->
