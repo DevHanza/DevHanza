@@ -64,3 +64,6 @@ Bash               11 hrs 12 mins  -------------------------   01.49 %
 [![Contra](https://img.shields.io/badge/-Contra-black?style=flat-square&logo=contra&logoColor=white)](https://contra.com/devhanza)
 [![GitHub](https://img.shields.io/badge/-Github-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/devhanza)
 -->
+
+
+_Design by: [Peter Steinberger](https://github.com/steipete)_
