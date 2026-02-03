@@ -1,29 +1,41 @@
 <h1>👋 Hi, I’m Hansana</h1>
-<p>I'm a Frontend Software Engineer from Sri Lanka 🇱🇰</p>
 
-[![wakatime](https://wakatime.com/badge/user/cf3817f9-1dca-4dc8-876a-c4ae6f6942cc.svg)](https://wakatime.com/@cf3817f9-1dca-4dc8-876a-c4ae6f6942cc)
-[![monkeytype](https://img.shields.io/badge/Monkeytype-116.8_WPM-gold?logo=monkeytype)](https://monkeytype.com/profile/Hansana1)
-<!-- [![github](https://img.shields.io/github/followers/DevHanza?logo=github&style=flat)](https://github.com/DevHanza?tab=followers) -->
+📍 **Central, Sri Lanka** | 👨‍💻 **Frontend Software Engineer**
 
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+[![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&style=flat-square&logoColor=fff)](#)
 
-## My Skills
+> Developer who fell in love with programming since 2018, driven by passion.
 
-### Languages
+## Projects
+<!-- 
+- 📅 **[Habit-Tracker](https://github.com/DevHanza/Habit-Tracker-React)** - Track your daily habits in one place.
+-->
+- 📝 **[School-Notes](https://github.com/DevHanza/school-notes-angular)** - Simple note-taking application for students.
+- ☕ **[Cafesy](https://github.com/DevHanza/cafesy)** -  E-commerce website template for a coffee shop.
+- 💻 **[Portfolio-2025](https://github.com/DevHanza/Portfolio-2025)** - Minimal dev portfolio website template.
+- 📽️ **[TelegramYTDLBot](https://github.com/DevHanza/TelegramYTDLBot)** - Telegram bot for 4K YouTube video downloads.
+- 🧩 **[React-Mini-Projects](https://github.com/DevHanza/React-Mini-Projects)** - React mini projects I built while learning.
+- 📸 **[ResponsiveShot](https://github.com/DevHanza/ResponsiveShot)** - Screenshot your site across devices.
+- 📢 **[Broadcast-Bot](https://github.com/DevHanza/Telegram-Broadcast-Bot)** - A Telegram bot that broadcasts messages to all users.
+- 🖼️ **[Youtube-Thumbnail-Downloader](https://github.com/DevHanza/Youtube-Thumbnail-Downloader)** - A Telegram bot that downloads YouTube video thumbnails.
+- 🧑‍💻 **[Simple-Portfolio-Template](https://github.com/DevHanza/Simple-Portfolio-Template)** - Simple developer portfolio website template.
+- 🌀 **[Youtube-VidID-Generator](https://github.com/DevHanza/Youtube-VidID-Generator)** - YouTube ID Generator + Validator. (a little dumb project 😅)
+  
+## GitHub Activity
 
-![Languages](https://go-skill-icons.vercel.app/api/icons?i=js,ts,py,php,mysql,c,html,css&perline=6)
+![GitHub Contribution Graph](https://ghchart.rshah.org/DevHanza)
 
-### Technologies
-
-![Technologies](https://go-skill-icons.vercel.app/api/icons?i=react,angular,nodejs,expressjs,mongodb,scss,bootstrap,tailwindcss,gsap,materialui,shadcn&perline=6)
-
-### Tools
-
-![Tools](https://go-skill-icons.vercel.app/api/icons?i=vscode,terminal,git,figma,wordpress,webstudio,framer,webflow,ps&perline=6)
 
 <details>
     <summary><h2>Recent Coding Time</h2></summary>
     <figure>
 
+        
+[![wakatime](https://wakatime.com/badge/user/cf3817f9-1dca-4dc8-876a-c4ae6f6942cc.svg)](https://wakatime.com/@cf3817f9-1dca-4dc8-876a-c4ae6f6942cc)
 <!--START_SECTION:waka-->
 
 ```txt
