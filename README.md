@@ -18,8 +18,9 @@
 - ☕ **[Cafesy](https://github.com/DevHanza/cafesy)** -  E-commerce website template for a coffee shop.
 - 💻 **[Portfolio-2025](https://github.com/DevHanza/Portfolio-2025)** - Minimal dev portfolio website template.
 - 📽️ **[TelegramYTDLBot](https://github.com/DevHanza/TelegramYTDLBot)** - Telegram bot for 4K YouTube video downloads.
-- 🧩 **[React-Mini-Projects](https://github.com/DevHanza/React-Mini-Projects)** - React mini projects I built while learning.
 - 📸 **[ResponsiveShot](https://github.com/DevHanza/ResponsiveShot)** - Screenshot your site across devices.
+- ⚛️ **[React-Mini-Projects](https://github.com/DevHanza/React-Mini-Projects)** - React mini projects I built while learning.
+- 🧩 **[Angular-Mini-Projects](https://github.com/DevHanza/Angular-Mini-Projects)** - Small apps I built while learning Angular.
 - 📢 **[Broadcast-Bot](https://github.com/DevHanza/Telegram-Broadcast-Bot)** - A Telegram bot that broadcasts messages to all users.
 - 🖼️ **[Youtube-Thumbnail-Downloader](https://github.com/DevHanza/Youtube-Thumbnail-Downloader)** - A Telegram bot that downloads YouTube video thumbnails.
 - 🧑‍💻 **[Simple-Portfolio-Template](https://github.com/DevHanza/Simple-Portfolio-Template)** - Simple developer portfolio website template.
