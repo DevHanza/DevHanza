@@ -5,7 +5,8 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-<!-- 
+
+<!--
 [![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&style=flat-square&logoColor=fff)](#)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
@@ -14,11 +15,13 @@
 > Developer who fell in love with programming since 2018, driven by passion.
 
 ## Projects
-<!-- 
+
+<!--
 - 📅 **[Habit-Tracker](https://github.com/DevHanza/Habit-Tracker-React)** - Track your daily habits in one place.
 -->
+
 - 📝 **[School-Notes](https://github.com/DevHanza/school-notes-angular)** - Simple note-taking application for students.
-- ☕ **[Cafesy](https://github.com/DevHanza/cafesy)** -  E-commerce website template for a coffee shop.
+- ☕ **[Cafesy](https://github.com/DevHanza/cafesy)** - E-commerce website template for a coffee shop.
 - 💻 **[Portfolio-2025](https://github.com/DevHanza/Portfolio-2025)** - Minimal dev portfolio website template.
 - 📽️ **[TelegramYTDLBot](https://github.com/DevHanza/TelegramYTDLBot)** - Telegram bot for 4K YouTube video downloads.
 - 📸 **[ResponsiveShot](https://github.com/DevHanza/ResponsiveShot)** - Screenshot your site across devices.
@@ -28,44 +31,23 @@
 - 🖼️ **[Youtube-Thumbnail-Downloader](https://github.com/DevHanza/Youtube-Thumbnail-Downloader)** - A Telegram bot that downloads YouTube video thumbnails.
 - 🧑‍💻 **[Simple-Portfolio-Template](https://github.com/DevHanza/Simple-Portfolio-Template)** - Simple developer portfolio website template.
 - 🌀 **[Youtube-VidID-Generator](https://github.com/DevHanza/Youtube-VidID-Generator)** - YouTube ID Generator + Validator. (a little dumb project 😅)
-  
+
 ## GitHub Activity
 
 ![GitHub Contribution Graph](https://ghchart.rshah.org/DevHanza)
 
-
-<details>
-    <summary><h2>Recent Coding Time</h2></summary>
-    <figure>
-
-        
 [![wakatime](https://wakatime.com/badge/user/cf3817f9-1dca-4dc8-876a-c4ae6f6942cc.svg)](https://wakatime.com/@cf3817f9-1dca-4dc8-876a-c4ae6f6942cc)
-<!--START_SECTION:waka-->
 
-```txt
-From: 14 October 2024 - To: 04 February 2026
-
-JavaScript         425 hrs 11 mins ##############-----------   55.87 %
-CSS                96 hrs 59 mins  ###----------------------   12.75 %
-HTML               90 hrs 39 mins  ###----------------------   11.91 %
-TypeScript         78 hrs 4 mins   ###----------------------   10.26 %
-Bash               11 hrs 12 mins  -------------------------   01.47 %
-```
-
-<!--END_SECTION:waka-->
-
-</figure>
-
-</details>
 
 ## Connect
+
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&style=flat-square&logoColor=fff)](https://www.linkedin.com/in/devhanza)
-<!-- 
+
+<!--
 [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?logo=medium&style=flat-square&logoColor=white)](https://medium.com/@devhanza)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-white?style=flat-square&logoColor=white)](https://hansana.is-a.dev/)
 [![Contra](https://img.shields.io/badge/-Contra-black?style=flat-square&logo=contra&logoColor=white)](https://contra.com/devhanza)
 [![GitHub](https://img.shields.io/badge/-Github-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/devhanza)
 -->
-
 
 _Profile README inspired by [Peter Steinberger](https://github.com/steipete)_
