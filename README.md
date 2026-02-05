@@ -1,6 +1,6 @@
 <h1>👋 Hi, I’m Hansana</h1>
 
-📍 **Central, Sri Lanka** | 👨‍💻 **Frontend Software Engineer**
+👨‍💻 **Frontend Software Engineer** | 📍 **Central, Sri Lanka**
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
