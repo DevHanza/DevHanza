@@ -66,4 +66,4 @@ Bash               11 hrs 12 mins  -------------------------   01.47 %
 -->
 
 
-_Design by: [Peter Steinberger](https://github.com/steipete)_
+_Profile README inspired by [Peter Steinberger](https://github.com/steipete)_
