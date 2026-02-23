@@ -17,7 +17,7 @@
 ## Projects
 
 
-- 📅 **[Habit-Tracker](https://github.com/DevHanza/Habit-Tracker)** - Track, improve, and stick to your habits effortlessly. (SaSS)
+- 📅 **[habitzy](https://github.com/DevHanza/habitzy)** - A platform to track your habits.
 - 📝 **[School-Notes](https://github.com/DevHanza/school-notes-angular)** - Simple note-taking application for students.
 - ☕ **[Cafesy](https://github.com/DevHanza/cafesy)** - E-commerce website template for a coffee shop.
 - 💻 **[Portfolio-2025](https://github.com/DevHanza/Portfolio-2025)** - Minimal dev portfolio website template.
