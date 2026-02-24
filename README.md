@@ -41,7 +41,7 @@
 ## Connect
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&style=flat-square&logoColor=fff)](https://www.linkedin.com/in/devhanza)
-
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=flat-square&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/DevHansana/)
 <!--
 [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?logo=medium&style=flat-square&logoColor=white)](https://medium.com/@devhanza)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-white?style=flat-square&logoColor=white)](https://hansana.is-a.dev/)
